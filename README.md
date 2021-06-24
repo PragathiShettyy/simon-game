@@ -5,9 +5,9 @@
 
 ## Technologies used:
 >- HTML
->-CSS
->-jQuery
->-Javascript.
+>- CSS
+>- jQuery
+>- Javascript.
 
 ## Snapshot
 ![Screenshot of the Simon Game](SimonGame.jpg)
