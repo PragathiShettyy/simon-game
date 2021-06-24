@@ -4,7 +4,7 @@
 >It's fast-paced play, with lights and sounds that can challenge the player. 
 
 ## Technologies used:
->-HTML
+>- HTML
 >-CSS
 >-jQuery
 >-Javascript.
